@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+.v-navigation-drawer__content {
+  padding:8px;
+}
+
+.map {
+  height: 400px;
+  width: 100%;
+}
+
+h6 {
+  padding-top: 8px;
+}
